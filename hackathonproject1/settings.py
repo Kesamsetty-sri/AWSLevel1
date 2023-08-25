@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-oztent(@%%1^3wb$4mn$6r9urjczx%2*lker&asv*%yg*_80(+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['13.232.73.165','localhost','0.0.0.0']
 
 
 # Application definition
